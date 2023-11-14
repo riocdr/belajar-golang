@@ -17,4 +17,9 @@ func main() {
 	var eString = string(e)
 	fmt.Println(name)
 	fmt.Println(eString)
+
+	nama := "Budi"
+
+	fmt.Println(nama)
 }
+
